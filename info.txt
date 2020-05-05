@@ -1,0 +1,2 @@
+npm --registry http://localhost:8081/repository/npm-group/ install -g @angular/cli@latest
+npm --registry http://localhost:8081/repository/npm-group/ install -g @angular/compiler@latest
