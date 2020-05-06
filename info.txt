@@ -1,2 +1,17 @@
 npm --registry http://localhost:8081/repository/npm-group/ install -g @angular/cli@latest
 npm --registry http://localhost:8081/repository/npm-group/ install -g @angular/compiler@latest
+npm install -g @angular/cli@latest
+npm install -g @angular/compiler@latest
+npm install -g bootstrap@3
+npm install -g bower
+npm install -g yarn
+npm install -g npx
+npm install -g qckwinsvc
+npm install uglify-js --global
+npm outdated
+npm outdated -g
+npm list
+npm list --global
+npm audit
+npm audit fix
+npm cache clean --force
